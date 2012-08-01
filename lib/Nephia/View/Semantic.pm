@@ -65,6 +65,10 @@ Nephia::View::Semantic - view class for Nephia
 
 Nephia::View::Semantic is a view class for Nephia that using Template::Semantic.
 
+=head1 USING IN SETUP
+
+  nephia-setup Your::AppName --flavor View::Semantic
+
 =head1 HOW TO FILLING IN DATA TO TEMPLATE
 
 =head2 BASIC WAY
