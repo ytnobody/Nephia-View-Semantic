@@ -1,0 +1,35 @@
+---
+abstract: 'view class for Nephia'
+author:
+  - 'ytnobody <ytnobody@gmail.com>'
+build_requires:
+  ExtUtils::MakeMaker: 6.36
+configure_requires:
+  CPAN::Meta: 0
+  CPAN::Meta::Prereqs: 0
+  Module::Build: 0.38
+dynamic_config: 0
+generated_by: 'Minilla/v0.4.2, CPAN::Meta::Converter version 2.130880'
+license: perl
+meta-spec:
+  url: http://module-build.sourceforge.net/META-spec-v1.4.html
+  version: 1.4
+name: Nephia-View-Semantic
+no_index:
+  directory:
+    - t
+    - xt
+    - inc
+    - share
+    - eg
+    - examples
+    - author
+requires:
+  File::Spec: 0
+  Nephia: 0
+  Template::Semantic: 0
+resources:
+  bugtracker: https://github.com/ytnobody/Nephia-View-Semantic/issues
+  homepage: https://github.com/ytnobody/Nephia-View-Semantic
+  repository: git://github.com/ytnobody/Nephia-View-Semantic.git
+version: 0.01

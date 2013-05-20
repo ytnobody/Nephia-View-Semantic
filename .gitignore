@@ -12,6 +12,7 @@ MANIFEST.bak
 /Nephia-View-Semantic-*
 /.build
 /_build_params
+/_build
 /Build
 !Build/
 !META.json
